@@ -8,16 +8,16 @@ export const Navigation = (props: Props) => {
     return (
         <nav className="navigation">
             <Link to="/" className="nav-link">
-                Home
+                home
             </Link>
             <Link to="/about" className="nav-link">
-                About
+                about
             </Link>
             <Link to="/art" className="nav-link">
-                Art
+                art
             </Link>
             <Link to="/web" className="nav-link">
-                Web
+                dev
             </Link>
         </nav>
     )

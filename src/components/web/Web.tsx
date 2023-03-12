@@ -5,7 +5,7 @@ type Props = {}
 export const Web = (props: Props) => {
     return (
         <div className="hall-main">
-            WEB
+            DEV
         </div>
     )
 }
