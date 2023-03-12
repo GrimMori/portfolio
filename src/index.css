@@ -26,12 +26,13 @@
     font-family: "Ubuntu";
 }
 
-body{
+#root{
     width: 100vw;
     height: 100vh;
     color: white;
     font-family: "Ubuntu";
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     background-image: url("./assets/images/bg.jpeg");
