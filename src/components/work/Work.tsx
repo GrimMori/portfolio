@@ -2,10 +2,10 @@ import React from "react";
 
 type Props = {}
 
-export const Art = (props: Props) => {
+export const Work = (props: Props) => {
     return (
         <div className="about-main">
-            ART
+            MY WORK
         </div>
     )
 }

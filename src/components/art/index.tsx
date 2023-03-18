@@ -1,1 +1,0 @@
-export { Art } from "./Art";
