@@ -56,7 +56,7 @@ const Projects = () => {
                     className={`project-unfold ${clicked[index] ? "project-clicked" : ""}`}
                     >
                         <div className="img">
-                            <img src={"src/assets/images/"+project.image}></img>
+                            <img src={"/src/assets/images/"+project.image}></img>
                         </div>
                         <p>{project.description}</p>
                         <div>
