@@ -4,7 +4,7 @@
             "name": "Coders a Bordo",
             "type": "web",
             "description": "Onboarding app for new students of Factoria F5. Full stack project developed using React, NestJS and MongoDB.",
-            "image": "codersabordo.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/codersabordo.jpeg",
             "imagealt": "screenshot of the app",
             "url": "https://codersabordo.netlify.app/",
             "repository": "https://github.com/orgs/stranger-strings-team/repositories"
@@ -13,7 +13,7 @@
             "name": "Recette Social",
             "type": "web",
             "description": "Social network for sharing culinery recipes. Full stack project developed using React, NestJS and MongoDB.",
-            "image": "recettesocial.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/recettesocial.jpeg",
             "imagealt": "screenshot of the app",
             "url": "",
             "repository": "https://github.com/ChaanChanChan/Recette-Social"
@@ -22,7 +22,7 @@
             "name": "FrankenWheel",
             "type": "web",
             "description": "Wheel of Doom-like game made for halloween.",
-            "image": "frankenwheel.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/frankenwheel.jpeg",
             "imagealt": "screenshot of the app",
             "url": "https://grimmori.github.io/frankenwheel",
             "repository": "https://github.com/GrimMori/frankenwheel"
@@ -31,7 +31,7 @@
             "name": "Portfolio",
             "type": "web",
             "description": "Portfolio template",
-            "image": "portfolio.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/portfolio.jpeg",
             "imagealt": "screenshot of the app",
             "url": "https://grimmori.vercel.app",
             "repository": "https://github.com/GrimMori/portfolio"
@@ -40,7 +40,7 @@
             "name": "Soundwave",
             "type": "web",
             "description": "Front-end page made with react for practice",
-            "image": "soundwave.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/soundwave.jpeg",
             "imagealt": "screenshot of the app",
             "url": "https://soundwavets.vercel.app/",
             "repository": "https://github.com/GrimMori/soundwavets"
@@ -49,7 +49,7 @@
             "name": "Wyvern",
             "type": "art",
             "description": "low poly model of a wyvern, fully rigged for animation or posing.",
-            "image": "wyvern.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/wyvern.jpeg",
             "imagealt": "3D model of a wyvern.",
             "url": "https://youtu.be/ehmsJOnyRdc",
             "repository": ""
@@ -58,7 +58,7 @@
             "name": "skelly",
             "type": "art",
             "description": "this is a lighting practice i made with one of my first 3D models.",
-            "image": "lighting.jpeg",
+            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/lighting.jpeg",
             "imagealt": "3D art of a chibi skeleton in a low-light setting.",
             "url": "",
             "repository": ""

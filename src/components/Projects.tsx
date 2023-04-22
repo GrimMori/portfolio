@@ -56,7 +56,7 @@ const Projects = () => {
                     className={`project-unfold ${clicked[index] ? "project-clicked" : ""}`}
                     >
                         <div className="img">
-                            <img src={require("src/assets/images/"+project.image).default}></img>
+                            <img src={project.image}></img>
                         </div>
                         <p>{project.description}</p>
                         <div>
