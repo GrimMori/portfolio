@@ -1,0 +1,74 @@
+.work-main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 200px 0 0 0;
+    color: var(--text);
+    width: 50vw;
+    min-height: 100vh;
+}
+
+.work-main > h1{
+    font-size: 3rem;
+    margin: 0 0 50px 0;
+}
+
+.project-title{
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 5rem;
+    padding: .2rem;
+    transition: all .20s ease-out;
+}
+
+.project-title:hover{
+    transform: scale(1.1);
+    color: var(--texthover);
+    filter: drop-shadow(0px 0px 10px white);
+}
+
+.project-unfold{
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--text);
+    gap: 1rem;
+    margin: 1rem 0 2rem 0;
+    font-size: 1.5rem;
+    transition: all .20s ease-out;
+}
+
+.project-unfold .img{
+    width: 60vw;
+    background-image: url("src/assets/images/blendbg.jpeg");
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.project-unfold img{
+    width: 60vw;
+    max-height: 40vw;
+    mix-blend-mode: multiply;
+    background-image: url("src/assets/images/blendbg.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.project-unfold a{
+    margin: auto 1rem;
+    font-size: 2rem;
+}
+
+.project-unfold a:hover{
+    color: var(--texthover);
+    filter: drop-shadow(0px 0px 10px white);
+}
+
+.project-clicked{
+    display: flex;
+    transition: all .20s ease-out;
+
+}

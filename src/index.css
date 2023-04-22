@@ -31,9 +31,13 @@
     font-family: "Ubuntu";
 }
 
+a:visited, a{
+    color: var(--text)
+}
+
 #root{
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
     color: white;
     font-family: "Ubuntu";
     display: flex;
