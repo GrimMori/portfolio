@@ -33,7 +33,7 @@
             "description": "Portfolio template",
             "image": "portfolio.jpeg",
             "imagealt": "screenshot of the app",
-            "url": "",
+            "url": "https://grimmori.vercel.app",
             "repository": "https://github.com/GrimMori/portfolio"
         },
         {
