@@ -1,0 +1,67 @@
+{
+    "projects": [
+        {
+            "name": "Coders a Bordo",
+            "type": "web",
+            "description": "Onboarding app for new students of Factoria F5. Full stack project developed using React, NestJS and MongoDB.",
+            "image": "codersabordo.jpeg",
+            "imagealt": "screenshot of the app",
+            "url": "https://codersabordo.netlify.app/",
+            "repository": "https://github.com/orgs/stranger-strings-team/repositories"
+        },
+        {
+            "name": "Recette Social",
+            "type": "web",
+            "description": "Social network for sharing culinery recipes. Full stack project developed using React, NestJS and MongoDB.",
+            "image": "recettesocial.jpeg",
+            "imagealt": "screenshot of the app",
+            "url": "",
+            "repository": "https://github.com/ChaanChanChan/Recette-Social"
+        },
+        {
+            "name": "FrankenWheel",
+            "type": "web",
+            "description": "Wheel of Doom-like game made for halloween.",
+            "image": "frankenwheel.jpeg",
+            "imagealt": "screenshot of the app",
+            "url": "https://grimmori.github.io/frankenwheel",
+            "repository": "https://github.com/GrimMori/frankenwheel"
+        },
+        {
+            "name": "Portfolio",
+            "type": "web",
+            "description": "Portfolio template",
+            "image": "portfolio.jpeg",
+            "imagealt": "screenshot of the app",
+            "url": "",
+            "repository": "https://github.com/GrimMori/portfolio"
+        },
+        {
+            "name": "Soundwave",
+            "type": "web",
+            "description": "Front-end page made with react for practice",
+            "image": "soundwave.jpeg",
+            "imagealt": "screenshot of the app",
+            "url": "https://soundwavets.vercel.app/",
+            "repository": "https://github.com/GrimMori/soundwavets"
+        },
+        {
+            "name": "Wyvern",
+            "type": "art",
+            "description": "low poly model of a wyvern, fully rigged for animation or posing.",
+            "image": "wyvern.jpeg",
+            "imagealt": "3D model of a wyvern.",
+            "url": "https://youtu.be/ehmsJOnyRdc",
+            "repository": ""
+        },
+        {
+            "name": "skelly",
+            "type": "art",
+            "description": "this is a lighting practice i made with one of my first 3D models.",
+            "image": "lighting.jpeg",
+            "imagealt": "3D art of a chibi skeleton in a low-light setting.",
+            "url": "",
+            "repository": ""
+        }
+    ] 
+}
