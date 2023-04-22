@@ -1,3 +1,5 @@
+[See how it looks](https://grimmori.vercel.app/)
+
 this is my portfolio. it has been developed using React and Vite. feel free to use it as a template for your own portfolio.
 
 to use this project you will have to clone the repository.
