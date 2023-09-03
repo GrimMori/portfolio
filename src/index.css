@@ -29,6 +29,12 @@
     padding: 0px;
     text-decoration: none;
     font-family: "Ubuntu";
+    scrollbar-width: none;
+}
+
+/* hide scrollbars on chrome browser */
+*::-webkit-scrollbar{
+    display: none;
 }
 
 a:visited, a{
