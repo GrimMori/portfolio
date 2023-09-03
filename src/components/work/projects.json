@@ -16,7 +16,7 @@
             "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/recettesocial.jpeg",
             "imagealt": "screenshot of the app",
             "url": "",
-            "repository": "https://github.com/ChaanChanChan/Recette-Social"
+            "repository": "https://github.com/GrimMori/Recette-Social"
         },
         {
             "name": "FrankenWheel",
@@ -28,15 +28,6 @@
             "repository": "https://github.com/GrimMori/frankenwheel"
         },
         {
-            "name": "Portfolio",
-            "type": "web",
-            "description": "Portfolio template",
-            "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/portfolio.jpeg",
-            "imagealt": "screenshot of the app",
-            "url": "https://grimmori.vercel.app",
-            "repository": "https://github.com/GrimMori/portfolio"
-        },
-        {
             "name": "Soundwave",
             "type": "web",
             "description": "Front-end page made with react for practice",
@@ -46,12 +37,21 @@
             "repository": "https://github.com/GrimMori/soundwavets"
         },
         {
-            "name": "Wyvern",
+            "name": "wyvern",
             "type": "art",
             "description": "low poly model of a wyvern, fully rigged for animation or posing.",
             "image": "https://raw.githubusercontent.com/GrimMori/portfolio/4faa51d4e5b3999c45d5d8aacce3a5269579b980/src/assets/images/wyvern.jpeg",
             "imagealt": "3D model of a wyvern.",
             "url": "https://youtu.be/ehmsJOnyRdc",
+            "repository": ""
+        },
+        {
+            "name": "serpent clerk",
+            "type": "art",
+            "description": "concept art",
+            "image": "https://cdna.artstation.com/p/assets/images/images/051/085/772/large/grim-mori-wip-02.jpg",
+            "imagealt": "low resolution render of a character on an office. the character is a orange snake with no eyes wearing a white shirt, suit pants and a black tie. since the serpent has no limbs, the unfilled clothes are hanging.",
+            "url": "",
             "repository": ""
         },
         {
